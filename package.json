@@ -1,7 +1,13 @@
 {
-  "name": "gpt-debugger",
-  "displayName": "gpt-debugger",
+  "name": "wtfdid",
+  "displayName": "wtfdid",
+  "publisher": "BrentTheTent",
+  "icon": "assets/confused.png",
   "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Brentably/gpt-debugger"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.76.0"
